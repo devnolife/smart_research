@@ -1,0 +1,3 @@
+Topik: penjadwalan, mata, kuliah
+Topik: penerapan, algoritma, genetika
+Topik: pdf, pdf, algoritma
